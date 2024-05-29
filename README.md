@@ -8,7 +8,7 @@
   
 - 📩 My LinkedIn: **https://www.linkedin.com/in/ibtissam-lazraf-240198250/**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
