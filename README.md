@@ -3,6 +3,7 @@
 **`A Full-Stack Web Developer`**
 
 📫 How to reach me: **lazraf.ibtissam23@gmail.com**
+📩 My LinkedIn: **https://www.linkedin.com/in/ibtissam-lazraf-240198250/**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
