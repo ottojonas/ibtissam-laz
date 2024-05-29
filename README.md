@@ -23,9 +23,10 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-<br/>
 
+#
 
+### 📊 Stats
 
 ![ibtissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibtissam-laz&show_icons=true&theme=radical)
 
