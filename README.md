@@ -2,6 +2,8 @@
 
 **`A Full-Stack Web Developer`**
 
+- 🎓 I have a degree in **Mathematics and Computer Science**
+
 - 📫 How to reach me: **lazraf.ibtissam23@gmail.com**
   
 - 📩 My LinkedIn: **https://www.linkedin.com/in/ibtissam-lazraf-240198250/**
