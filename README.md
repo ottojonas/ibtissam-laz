@@ -27,15 +27,17 @@
 <img align="left" alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </p>
 
-
+<br/>
           
 #
 
 ### 📊 Stats
-
+<p align="center">
 ![ibtissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibtissam-laz&show_icons=true&theme=radical)
-
+</p>
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+</p>
 <!--
 **ibtissam-laz/ibtissam-laz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
