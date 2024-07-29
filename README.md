@@ -2,7 +2,7 @@
 
 **`A Full-Stack Web Developer`**
 
-- 🎓 I have a degree in **Mathematics and Computer Science**
+- 🎓 A degree in **Mathematics and Computer Science**
   
 - 📩 My Email: **smile.lily23@gmail.com**
 
