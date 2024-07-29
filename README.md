@@ -32,12 +32,11 @@
 #
 
 ### 📊 Stats
-<div align=center>
+
 ![ibtissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibtissam-laz&show_icons=true&theme=radical)
-</div>
-<div align=center>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
-</div>
+
 <!--
 **ibtissam-laz/ibtissam-laz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
