@@ -4,7 +4,7 @@
 
 - 🎓 I have a degree in **Mathematics and Computer Science**
   
-- 📩 My LinkedIn: **https://www.linkedin.com/in/ibtissam-lazraf-240198250/**
+- 📩 My Email: **smile.lily23@gmail.com**
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
