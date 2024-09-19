@@ -33,7 +33,7 @@
 
 ### 📊 Stats
 <div style="display: flex; justify-content: space-between;">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissam-laz&layout=compact&theme=radical"/></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibtissam-laz&show_icons=true&theme=radical"/></p>
 </div>
 
