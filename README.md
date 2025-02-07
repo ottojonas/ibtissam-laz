@@ -35,7 +35,6 @@
 <div style="display: flex; justify-content: space-between;">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissam-laz&layout=compact&theme=radical&hide_border=true" alt="ibtissam-laz" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibtissam-laz&show_icons=true&theme=radical&hide_border=true" alt="ibtissam-laz" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtissam-laz&theme=radical&border_radius=7.5&hide_border=true" alt="ibtissam-laz" /></p>
 </div>
 
 <!--
